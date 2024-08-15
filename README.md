@@ -1,1 +1,1 @@
-Testing an attempt to add a brief description in here. ABCDEFG
+This is some sample text yet again.
